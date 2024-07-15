@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linkwrayoff&label=Profile%20views&color=0e75b6&style=flat" alt="linkwrayoff" /> </p>
 
-- 🌱 I’m currently learning **JS / C# / React / TypeScript**
+- 🌱 I’m currently learning **JS / React / TypeScript**
 
 - 📫 How to reach me **linkwrayoff@gmail.com**
 
